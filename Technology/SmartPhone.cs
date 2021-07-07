@@ -18,12 +18,12 @@ namespace Technology
         public void Service(string carrier)
         {
             this.Carrier = carrier;
-            Console.WriteLine("Hello");
+            Console.WriteLine($"The carrier is: {carrier}");
         }
 
         public void MakePhoneCall()
         {
-            Console.WriteLine("Connecting call...");
+            Console.WriteLine("Connecting call...\n");
         }
     }
 }

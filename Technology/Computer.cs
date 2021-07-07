@@ -11,7 +11,7 @@ namespace Technology
         //Attributes
         public string Brand { get; set; }
         public string Model { get; set; }
-        public static string TypeOfDevice { get; set; }
+        public string TypeOfDevice { get; set; }
         
         public Computer(string brand, string model)
         {
@@ -24,9 +24,9 @@ namespace Technology
             TypeOfDevice = typeOfDevice;
         }
 
-       public void DeviceInfo(string brand, string model)
+       public void DeviceInfo(string typeOfDevice, string brand, string model)
         {
-            Console.WriteLine($"This is a(n): {Brand} {Model}");
+            Console.WriteLine($"This is a: {typeOfDevice}. It is a(n) {brand} {model}");
         }
     }
 }
