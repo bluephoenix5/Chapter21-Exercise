@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Technology
 {
-    class Laptop : Computer
+    public class Laptop : Computer
     {
+        public int Year { get; set; }
+
+        public Laptop(int year, string brand, string model, string typeOfDevice) : base(typeOfDevice)
+        {
+            Year = year;
+        }
+        
+        public void Reboot()
+        {
+            Console.WriteLine("Please standby, computer rebooting...");
+        }
+    
     }
 }

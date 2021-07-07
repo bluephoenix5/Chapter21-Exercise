@@ -9,25 +9,24 @@ namespace Technology
     public class Computer
     {
         //Attributes
-        public string Brand;
-        public double ScreenSize;
+        public string Brand { get; set; }
+        public string Model { get; set; }
+        public static string TypeOfDevice { get; set; }
         
-
-        public void BrandName(string brand)
+        public Computer(string brand, string model)
         {
-            Brand = brand;
-            Console.WriteLine(brand);
+            this.Brand = brand;
+            this.Model = model;            
         }
 
-               
-        public Computer(double screenSize)
+        public Computer(string typeOfDevice)
         {
-            ScreenSize = screenSize;
+            TypeOfDevice = typeOfDevice;
         }
 
-        public void TurnOn()
+       public void DeviceInfo(string brand, string model)
         {
-            Console.WriteLine("Loading...");
+            Console.WriteLine($"This is a(n): {Brand} {Model}");
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\bin\Debug\net5.0\Technology.exe
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\bin\Debug\net5.0\Technology.deps.json
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\bin\Debug\net5.0\Technology.runtimeconfig.json
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\bin\Debug\net5.0\Technology.runtimeconfig.dev.json
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\bin\Debug\net5.0\Technology.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\bin\Debug\net5.0\ref\Technology.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\bin\Debug\net5.0\Technology.pdb
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.csproj.AssemblyReference.cache
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.AssemblyInfoInputs.cache
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.AssemblyInfo.cs
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.csproj.CoreCompileInputs.cache
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\ref\Technology.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.pdb
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\Chp21\Technology\Technology\obj\Debug\net5.0\Technology.genruntimeconfig.cache
